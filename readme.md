@@ -1,11 +1,25 @@
-## Focuz - Your Personal Work-Break Reminder
+# Focuz 🪷 - Your Personal Work-Break Reminder
 
 Focuz is a command-line tool designed to help developers take regular breaks while working for prolonged periods of time. It reminds you to take a break after a certain duration of work and helps you maintain a healthy work-life balance.
-Features
+
+<p align="center" >
+
+<img width="500" src="https://res.cloudinary.com/raufsamestone/image/upload/v1679869849/focuz/lrbpam3jsthm8ftgofyc.gif" alt="focuz" />
+
+<p>
+
+
+## Features
 
 - Set custom work duration and break duration in minutes or seconds
 - Option to interrupt work or mark work as done
-- Pop-up notifications to alert you when work or break time is up
+- Pop-up notifications to alert you when work or break time is up 👇
+<p align="center" >
+
+<img width="500" src="https://res.cloudinary.com/raufsamestone/image/upload/v1679869849/focuz/p9csf6jlsu4ykulwlsst.png" alt="focuz" />
+
+<p>
+
 - Calculates average work and break times for analytics
 
 ## Installation
@@ -34,11 +48,6 @@ Press 'q' to quit the program
 To exit Focuz, simply press Ctrl + C 
 
 
-Contributing
+## Contributing
 
-If you'd like to contribute to Focuz, feel free to submit a pull request. Before submitting a pull request, be sure to run the tests by running the following command in the root directory:
-
-
-License
-
-Focuz is released under the MIT License. Feel free to use, modify, and distribute this tool as you see fit.
+If you'd like to contribute to Focuz, feel free to submit a pull request. 

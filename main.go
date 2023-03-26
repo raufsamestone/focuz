@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to Focuz! Your personal work-break reminder")
+	fmt.Println("Welcome to Focuz! 🪷  Your personal work-break reminder. ")
 
 	fmt.Print("Enter work duration (in minutes or seconds): ")
 	var workDuration time.Duration
