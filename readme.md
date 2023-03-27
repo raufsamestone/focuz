@@ -28,7 +28,7 @@ To install Focuz, you must have Go installed on your system. You can download an
 
 Once you have Go installed, you can install Focuz by running the following command:
 
-`go get github.com/raufsmestone/focuz`
+`go get github.com/raufsamestone/focuz`
 
 
 ## Usage
